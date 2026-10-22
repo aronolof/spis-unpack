@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+
+
+# Local credentials and machine artifacts
+.env
+.env.*
+.DS_Store
+*.log
